@@ -28,6 +28,9 @@ Autodesk Fusion 360
   <img width="587" alt="image" src="https://github.com/user-attachments/assets/fd565bed-b598-462c-b9a6-0b5a2f2f7238">
 - 실제 로봇 동작 영상
   
+https://github.com/user-attachments/assets/3746d093-c7de-4646-879f-761f4e0c9589
+
+
 
 ## 한국 로봇항공기 경연대회
 한국 로봇항공기 경연대회는 대학생들이 개발한 무인항공기(드론)을 활용하여 각종 임무수행을 통해 무인항공기(드론)의 인식제고 및 인력양성을 목적으로 2002년부터 매년 대회를 개최해왔습니다.
