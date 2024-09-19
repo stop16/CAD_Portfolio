@@ -9,6 +9,7 @@ Autodesk Fusion 360
 - 한국 로봇항공기 경연대회
 - 동양미래EXPO
 - 캔위성 체험 경연대회
+- 라즈베리파이 DevKit
 
 ## 전국 대학교 스마트로봇 경진대회
 전국 대학교 스마트로봇 경진대회는 창의적이고 혁신적인 임베디드 소프트웨어 개발능력과 로봇 하드웨어 제작능력을 배양하는 대회로, 스마트 팩토리를 대비한 지능형 로봇 인식의 제고 및 저변 확대를 목적으로 2012년부터 매년 대회를 개최해왔습니다.
@@ -54,6 +55,12 @@ https://github.com/user-attachments/assets/3746d093-c7de-4646-879f-761f4e0c9589
   
 <img width="777" alt="image" src="https://github.com/user-attachments/assets/24592dc4-c3bc-4c57-bdb0-b8474c762a4a">
 
+- 실제 구현된 모습
+  
+  <img width="407" alt="image" src="https://github.com/user-attachments/assets/02b0f6af-1ac0-4395-b227-0c2f472da814">
+  <img width="864" alt="image" src="https://github.com/user-attachments/assets/91537401-3e5c-4436-91c0-f8cb8fda1e07">
+
+  
 ## 캔위성 체험 경연대회
 캔위성 체험 경연대회는 위성임무를 모사하는 캔위성 경연대회를 통해, 인공위성 체계에 대한 학생들의 이해 증진, 위성교육 및 위성 기술 대중화를 목적으로 2012년 시범대회를 시작으로 현재까지 매년 성공적으로 개최되고 있는 대회입니다.
 
@@ -61,3 +68,16 @@ https://github.com/user-attachments/assets/3746d093-c7de-4646-879f-761f4e0c9589
 - 캔위성
   
   <img width="431" alt="image" src="https://github.com/user-attachments/assets/b1a60f56-39d9-4c55-8aaa-691827989418">
+
+- 실제 구현된 모습
+  
+  <img width="638" alt="image" src="https://github.com/user-attachments/assets/3ee02c29-ba79-4872-a5d3-0c7f46a00573">
+
+
+## 라즈베리파이 DevKit
+라즈베리파이를 사용하는 전공 수업에서 매번 모니터와 센서를 연결하는 것이 번거로워 하나로 합쳐 들고 다닐 수 있도록 설계하였습니다.
+
+- DevKit
+  
+  <img width="587" alt="image" src="https://github.com/user-attachments/assets/d50a83ca-ba64-4945-b763-ad5a308f3892">
+
